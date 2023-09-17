@@ -1,7 +1,7 @@
 # Sentiment Analysis of Apple and Google Product Tweets
 
 ## Introduction
-This is a comprehensive Natural Language Processing (NLP) project focused on sentiment analysis of tweets related to Apple and Google products. The primary objective is to categorize these tweets into positive, negative, or neutral sentiments. This analysis is of important for both companies and consumers, providing insights into the public's perceptions of these global tech gurus.
+This is a Natural Language Processing (NLP) project focused on sentiment analysis of tweets related to Apple and Google products. The primary objective is to categorize these tweets into positive, negative, or neutral sentiments. This analysis is of important for both companies and consumers, providing insights into the public's perceptions of these global tech gurus.
 
 ## Business Understanding
 In the modern era of technology, social media platforms like Twitter have evolved into important channels for customers to voice their opinions and emotions regarding products and brands. Understanding and leveraging these sentiments is crucial for companies to enhance their products, improve customer satisfaction, and remain competitive in the dynamic technology market.
