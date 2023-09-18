@@ -47,5 +47,6 @@ Recommendations:
 
 - **Competitive Advantage**: Maintain a competitive edge by staying informed about customer sentiment and market dynamics.
 
-[Link to Notebook](https://github.com/NyawiraFaith/phase-4-NLP-project/blob/main/Notebook%20Name.ipynb)
-[Link to Presentation](https://github.com/NyawiraFaith/phase-4-NLP-project/blob/main/Presentation%20Name.pdf)
+- [Link to Notebook](https://github.com/NyawiraFaith/phase-4-NLP-project/blob/main/Notebook%20Name.ipynb)
+
+- [Link to Presentation](https://github.com/NyawiraFaith/phase-4-NLP-project/blob/main/Presentation%20Name.pdf)
